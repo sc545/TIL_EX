@@ -77,3 +77,5 @@ interface Subscriber<T> implements Observer<T>, Subscription {
 동시성 vs 병렬성
 
 http://atin.tistory.com/567
+
+https://huns.me/development/2051
