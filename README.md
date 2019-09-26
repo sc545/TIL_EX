@@ -8,7 +8,7 @@
 
 ## 분류
 ### Android
-- [ 20190926_Android / Dialog vs DialogFragment ](https://github.com/ksu3101/TIL/blob/master/Android/160705_Android.md)
+- [ 20190926 / Dialog vs DialogFragment ](https://github.com/ksu3101/TIL/blob/master/Android/160705_Android.md)
 ---
 ### AWS
 - cafe24에서 AWS로 서비스 이전 기록 1 (작성중)  
